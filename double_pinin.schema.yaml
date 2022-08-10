@@ -150,6 +150,7 @@ translator:
     - xform/([bpmf])o/$1uo/ # bo, po, mo, fo to buo, puo, muo, fuo 
     - xform/([bpmf])uou/$1ou/ # bo, po, mo, fo to buo, puo, muo, fuo #TODO
     - xform/ong/ung/ # -ong to -ung
+    - xform/uu/u/ 
     - xform/([bpmfdtnljqx])ie/$1ie/ # ie to iê
     - xform/([iv])e/$1eh/
 
